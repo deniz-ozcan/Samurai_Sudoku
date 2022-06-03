@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>assets/icons/arrow-down-left.svg</file>
+    <file>assets/icons/maximize.svg</file>
+    <file>assets/icons/minimize.svg</file>
+    <file>assets/icons/x.svg</file>
+    <file>assets/icons/windowicon.png</file>
+    <file>assets/icons/no.png</file>
+    <file>assets/icons/yes.png</file>
+    <file>assets/icons/caret-circle-down .png</file>
+    <file>assets/icons/background.png</file>
+  </qresource>
+</RCC>

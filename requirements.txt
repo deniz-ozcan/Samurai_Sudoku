@@ -1,0 +1,50 @@
+sudoku->Ui_sudoku
+sys->exit,argv
+time->sleep
+csv->reader
+os.path->dirname,join
+numpy
+
+PyQt5.QtWidgets (
+    QWidget,
+    QSizePolicy,
+    QHBoxLayout,
+    QVBoxLayout,
+    QLabel,
+    QPushButton,
+    QFrame,
+    QGridLayout,
+    QComboBox,
+    QTableWidget,
+    QAbstractItemView,
+    QListWidget,
+    QListView,
+    QSlider,
+    QLCDNumber,
+    QAbstractSlider,
+    QTableWidgetItem,
+    QApplication,
+    QMainWindow,
+    QMessageBox,
+    QGraphicsOpacityEffect as glory,
+    QListWidgetItem,
+
+)
+PyQt5.QtGui (
+    QPixmap,
+    QIcon,
+    QFont,
+    QColor,
+    
+)
+PyQt5.QtCore (
+    Qt,
+    QSize,
+    QCoreApplication,
+    QMetaObject,
+    QRect,
+    QThread,
+    pyqtSignal, 
+)
+
+
