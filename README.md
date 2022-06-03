@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="windoicon.png" alt="App Logo" width="289px" height="260px" />
+    <img src="windowicon.png" alt="App Logo" width="289px" height="260px" />
 </p>
 <h1 align="center">Samurai Sudoku Game & Solver App</h1>
 
