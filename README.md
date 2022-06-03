@@ -58,7 +58,7 @@
 <h2 id="howtoinstall">⛓️ How to install</h2>
 
 <p align="justify">
-    There are two way to deal with it:
+    There are two ways to deal with it:
 <ol>
     <li>Build an executable file with Pylance</li>
     <ul>
