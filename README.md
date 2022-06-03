@@ -24,8 +24,7 @@
 <h2 id="about-the-project">:pencil: About The Project</h2>
 
 <p align="justify">
-    As using Python->PyQt5 and Mysql database of bank managing, banking,
-    transactions of accounts and storing them in 3NF database.
+    As using Python->PyQt5 and csv file we can create a new samurai sudoku game and solver.
 </p>
 
 <ul>
